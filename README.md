@@ -45,7 +45,8 @@ Markdown posts explaining key concepts I applied or explored in depth.
 ## 📬 Contact Me
 **MJ Westman**  
 Cybersecurity Student & Aspiring Analyst  
-[LinkedIn](https://linkedin.com/in/matthew-westman) | [GitHub](https://github.com/mjwestman)  
+[LinkedIn](https://www.linkedin.com/in/matthew-westman-799819246/)
+ | [GitHub](https://github.com/mjwestman)  
 Email: mattwest333@icloud.com
 
 ---
